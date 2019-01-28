@@ -1,7 +1,7 @@
 TUTORIAL FFT DI C9/VPS 
 =========== FFT ==============
 1. nvm install node
-2. git clone https://github.com/issaanoorendra/ig-tools
+2. git clone https://github.com/HilmyAdlann23/hilmyadlann.git
 3. cd ig-tools
 4. unzip node_modules.zip
 5. node ig.js
